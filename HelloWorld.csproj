@@ -5,9 +5,4 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="Program.cs" />
-    <Compile Include="SecondFile.cs" />
-  </ItemGroup>
-
 </Project>
